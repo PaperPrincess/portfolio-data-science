@@ -42,5 +42,5 @@
 ---
 
 ## 📫 Как со мной связаться
-* **Telegram:** `@твой_ник`
-* **Email:** `твой_email@gmail.com`
+* **Telegram:** `@L1linad`
+* **Email:** `dinabadalyan61@gmail.com`
